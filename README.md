@@ -1,3 +1,1 @@
-# sample.txt
-task 1.1
-very
+This is my contribution.
